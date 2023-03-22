@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 428843829
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60b571bb89938c365d6a6de37478bc1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d9569dd05e7985ef8d42f509f03e2891
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/HotFix/UI/View/MaterialLibraryView.prefab
+Dependencies:
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/materiallibraryview/material
+  library_model@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/materiallibraryview/material
+  library_other.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/materiallibraryview/material
+  library_pattern@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/materiallibraryview/material
+  library_sofa_four@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/materiallibraryview/material
+  library_sofa_one@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/materiallibraryview/material
+  library_sofa_three@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/materiallibraryview/material
+  library_sofa_two@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/materiallibraryview/material
+  library_texture of material@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/materiallibraryview/material
+  library_top bar_logo@2x.ab

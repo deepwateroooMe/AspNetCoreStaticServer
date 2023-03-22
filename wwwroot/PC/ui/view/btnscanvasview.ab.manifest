@@ -1,0 +1,178 @@
+ManifestFileVersion: 0
+CRC: 3810957971
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 448ae5eac7719a7d5763e62d01cb9f92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1e9dd5004c900b2e6c3bbaf6f08ae3d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd0329309ec31564883eab5916fba35a, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d04f6220530d1345b045d54bc41e6f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 69ae17a3bd8de104bbd6d3b352167ef0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 321f77598ac9929469162a08ddeaf644, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 193d977d17b26cc49b8dcd14eccd364b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/TetrominoI.prefab
+- Assets/Prefabs/TetrominoB.prefab
+- Assets/Prefabs/TetrominoC.prefab
+- Assets/Textures/ComRenderTexture.renderTexture
+- Assets/Prefabs/shaders/EdgeSurfaceShader.shader
+- Assets/Prefabs/TetrominoR.prefab
+- Assets/Materials/square.mat
+- Assets/Prefabs/minoPS.prefab
+- Assets/Prefabs/TetrominoZ.prefab
+- Assets/Prefabs/shadowY.prefab
+- Assets/Materials/brown.mat
+- Assets/Images/directions.png
+- Assets/Prefabs/minoS.prefab
+- Assets/Images/squareBlue.png
+- Assets/Textures/EduRenderTexture.renderTexture
+- Assets/Materials/brown0.mat
+- Assets/Materials/baseSquare0.mat
+- Assets/Images/purple.png
+- Assets/Materials/Yellow0.mat
+- Assets/Prefabs/shadowB.prefab
+- Assets/Prefabs/TetrominoL.prefab
+- Assets/Images/baseSquare0.png
+- Assets/Images/square2.png
+- Assets/Materials/red.mat
+- Assets/Prefabs/shadowO.prefab
+- Assets/Prefabs/TetrominoO.prefab
+- Assets/Prefabs/shaders/SimpleGrabPassBlue.shader
+- Assets/Materials/colorB.mat
+- Assets/Materials/white.mat
+- Assets/Materials/ghostRed.mat
+- Assets/Images/squareRed.png
+- Assets/Prefabs/minoI.prefab
+- Assets/Prefabs/shadowC.prefab
+- Assets/Images/olive.png
+- Assets/Materials/black.mat
+- Assets/Images/pink.png
+- Assets/Materials/pink.mat
+- Assets/Materials/Green.mat
+- Assets/Prefabs/TetrominoT.prefab
+- Assets/Materials/Particle001.mat
+- Assets/Materials/blue0.mat
+- Assets/Prefabs/mino0.prefab
+- Assets/Materials/Purple.mat
+- Assets/Prefabs/shadowZ.prefab
+- Assets/Materials/TwoSideButtonMaterial.mat
+- Assets/Images/white.png
+- Assets/Materials/Yellow.mat
+- Assets/Materials/ghostGreen.mat
+- Assets/Prefabs/shadowS.prefab
+- Assets/Prefabs/Tetromino0.prefab
+- Assets/Prefabs/minoZ.prefab
+- Assets/Images/squareGreen.png
+- Assets/Images/rotations.png
+- Assets/Prefabs/shaders/Standard.shader
+- Assets/Prefabs/minoR.prefab
+- Assets/Prefabs/ExplosionParticles.prefab
+- Assets/Prefabs/TetrominoY.prefab
+- Assets/Materials/Purple0.mat
+- Assets/Materials/ghostBlue.mat
+- Assets/Prefabs/shadow0.prefab
+- Assets/Prefabs/Prefabs.prefab
+- Assets/Materials/oliveC.mat
+- Assets/Prefabs/shaders/MaterialRendererShader.shader
+- Assets/Materials/ghostYellow.mat
+- Assets/Materials/HealingAlpha.mat
+- Assets/Images/square.png
+- Assets/Prefabs/minoJ.prefab
+- Assets/Materials/EdgeGhost.mat
+- Assets/Prefabs/minoT.prefab
+- Assets/Images/brown.png
+- Assets/Materials/colorB0.mat
+- Assets/Materials/square0.mat
+- Assets/Materials/Green0.mat
+- Assets/Materials/grayMaterial.mat
+- Assets/Prefabs/TetrominoX.prefab
+- Assets/Images/squareYellow.png
+- Assets/Prefabs/minoL.prefab
+- Assets/Materials/white0.mat
+- Assets/Prefabs/TetrominoJ.prefab
+- Assets/Prefabs/shadowI.prefab
+- Assets/Prefabs/minoY.prefab
+- Assets/Prefabs/shaders/AlphaTest.shader
+- Assets/Materials/blue.mat
+- Assets/Prefabs/minoC.prefab
+- Assets/Prefabs/minoB.prefab
+- Assets/Prefabs/TetrominoS.prefab
+- Assets/Materials/red0.mat
+- Assets/Images/blue0.png
+- Assets/Prefabs/shadowR.prefab
+- Assets/Prefabs/shadowT.prefab
+- Assets/Prefabs/shadowL.prefab
+- Assets/Prefabs/minoO.prefab
+- Assets/Prefabs/shaders/EdgeDetectNormalsColor.shader
+- Assets/Prefabs/BtnsCanvasView.prefab
+- Assets/Prefabs/shadowJ.prefab
+Dependencies: []

@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3177470683
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae9eab3cbe959dc11d76ee93bc364a34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 96c8a2f431b603a4ae951ed187d5a99a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/HotFix/UI/View/DownRootView.prefab
+Dependencies:
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/common/uimask.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/downrootview/design_bottom
+  bar-icon_design_interaction@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/downrootview/find_bottom
+  bar-icon_find_interaction@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/downrootview/home
+  page_bottom bar-icon_design@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/downrootview/home
+  page_bottom bar-icon_find@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/downrootview/home
+  page_bottom bar_icon_home page_interaction@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/downrootview/home
+  page_bottom bar_icon_home page_non interaction@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/downrootview/home
+  page_bottom bar_icon_my@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/downrootview/home
+  page_bottom bar_icon_release@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/downrootview/my_bottom
+  bar_icon_my_interaction@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/downrootview/release_bottom
+  bar-icon_release_interaction@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/ui/font/medium.ab

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3316797606
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7c1cafa023d17ea053ff22b26ae5c5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/HotFix/HotFix.pdb.bytes
+Dependencies: []

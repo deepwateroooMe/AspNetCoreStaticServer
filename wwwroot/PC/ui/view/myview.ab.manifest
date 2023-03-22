@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 3323046167
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2099c450bea9c1b5a3b65469d56dec56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ab27d4e9ea419d9c42c66b38a9cf04f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a151aab6d6532cc47a9d471a3a94c09b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/HotFix/UI/View/MyView.prefab
+Dependencies:
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/common/uimask.ab
+- "F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/myview/a\u2560\xE7%a2a\u2560\xE8%cf%f0+3+%a2%a6%a6@2x.ab"
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/myview/my_head
+  portrait@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/myview/my_icon_get
+  into@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/myview/my_lower
+  part_rectangle frame@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/myview/my_rectangle
+  frame@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/myview/my_top
+  bar-icon_set up@2x.ab

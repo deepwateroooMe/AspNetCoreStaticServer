@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1494777728
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 196a32b3c8920380515c2fd3077bfa6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b461ed877bd666e82c334b0768962aed
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/HotFix/UI/Font/medium.ttf
+Dependencies:
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/ui/font/regular.ab

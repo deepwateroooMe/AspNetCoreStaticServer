@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2563439078
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2659f00abf395fe4f96dc97ff922337
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3170261c840f791212775a0f6463ca5e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -667331979, guid: 89f0137620f6af44b9ba852b4190e64e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/HotFix/UI/Font/pingfangregular.asset
+Dependencies: []

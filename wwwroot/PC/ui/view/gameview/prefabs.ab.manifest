@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3846780092
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c40709d26d0269a1c714c571a3fe3e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c67899441b4d1cd8f5a66f9ea4467987
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd0329309ec31564883eab5916fba35a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 193d977d17b26cc49b8dcd14eccd364b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Prefabs.prefab
+Dependencies:
+- F:/tetris3D/trunk/client/trunk/Assets/../TempStreamingAssets/Windows/ui/view/btnscanvasview.ab

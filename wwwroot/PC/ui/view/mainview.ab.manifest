@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 1727926042
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e7518d7746ef77a7b9918df1e27725bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8cb72dd7172323a557d0ed679c75868b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/HotFix/UI/View/MainView.prefab
+Dependencies:
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/common/uimask.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/mainview/home
+  page_banner_eight@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/mainview/home
+  page_banner_eleven@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/mainview/home
+  page_banner_five@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/mainview/home
+  page_banner_four@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/mainview/home
+  page_banner_nine@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/mainview/home
+  page_banner_one@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/mainview/home
+  page_banner_seven@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/mainview/home
+  page_banner_six@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/mainview/home
+  page_banner_ten@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/mainview/home
+  page_banner_three@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/mainview/home
+  page_banner_two@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/mainview/home
+  page_top bar_logo.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/ui/font/medium.ab

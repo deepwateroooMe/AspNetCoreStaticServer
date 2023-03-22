@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1747167771
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb0f84e22dccf56ddef4521f01607ca5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4cd0a5558493b0679e071c141fc729a3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/HotFix/UI/Content/PlanView/planitem_10002.png
+Dependencies: []

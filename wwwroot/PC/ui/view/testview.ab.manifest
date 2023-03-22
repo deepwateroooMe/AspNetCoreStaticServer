@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 412277062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9260ff3152c627b75e89a48fee1f627b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1cee498200952f192ab3be979dc592f8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1453722849, guid: 89f0137620f6af44b9ba852b4190e64e, type: 3}
+- Class: 114
+  Script: {fileID: -667331979, guid: 89f0137620f6af44b9ba852b4190e64e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a151aab6d6532cc47a9d471a3a94c09b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1880e9a7fa2c32d40b882f031321d750, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a3831af9843c0445b5edf9deecb5a52, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/HotFix/UI/View/TestView.prefab
+Dependencies:
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/ui/font/pingfangmedium.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/ui/font/pingfangregular.ab

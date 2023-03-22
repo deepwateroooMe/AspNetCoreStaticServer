@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 4280100900
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06b76caf4a7a0c733c45af766df1f0b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 590fbdfd5d1b6f5870117ba6960d97bf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/EduTetroView.prefab
+Dependencies:
+- F:/tetris3D/trunk/client/trunk/Assets/../TempStreamingAssets/Windows/ui/view/btnscanvasview.ab

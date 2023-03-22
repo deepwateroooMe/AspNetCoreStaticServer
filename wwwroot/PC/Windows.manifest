@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 1687277676
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: hotfix.dll.ab
+      Dependencies: {}
+    Info_1:
+      Name: hotfix.pdb.ab
+      Dependencies: {}
+    Info_2:
+      Name: ui/ui2droot.ab
+      Dependencies: {}
+    Info_3:
+      Name: ui/view/bgnnewcontinueview.ab
+      Dependencies: {}
+    Info_4:
+      Name: ui/view/btnscanvasview.ab
+      Dependencies: {}
+    Info_5:
+      Name: ui/view/challlevelsview.ab
+      Dependencies:
+        Dependency_0: ui/view/btnscanvasview.ab
+    Info_6:
+      Name: ui/view/comtetroview.ab
+      Dependencies:
+        Dependency_0: ui/view/btnscanvasview.ab
+    Info_7:
+      Name: ui/view/desview.ab
+      Dependencies: {}
+    Info_8:
+      Name: ui/view/edubtnsview.ab
+      Dependencies: {}
+    Info_9:
+      Name: ui/view/educamodesview.ab
+      Dependencies: {}
+    Info_10:
+      Name: ui/view/edutetroview.ab
+      Dependencies:
+        Dependency_0: ui/view/btnscanvasview.ab
+    Info_11:
+      Name: ui/view/fivegridview.ab
+      Dependencies: {}
+    Info_12:
+      Name: ui/view/gameview.ab
+      Dependencies:
+        Dependency_0: ui/view/btnscanvasview.ab
+    Info_13:
+      Name: ui/view/loginview.ab
+      Dependencies: {}
+    Info_14:
+      Name: ui/view/menuview.ab
+      Dependencies: {}
+    Info_15:
+      Name: ui/view/midmenuview.ab
+      Dependencies: {}
+    Info_16:
+      Name: ui/view/scoredataview.ab
+      Dependencies: {}
+    Info_17:
+      Name: ui/view/settingsview.ab
+      Dependencies: {}
+    Info_18:
+      Name: ui/view/staticbtnsview.ab
+      Dependencies: {}
+    Info_19:
+      Name: ui/view/togglebtnview.ab
+      Dependencies: {}

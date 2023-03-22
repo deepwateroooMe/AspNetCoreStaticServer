@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 410411591
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62e4ff1c3366373278cb4e49794c9027
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: de7e7cf4502dc35098f0d18b5f580abb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a151aab6d6532cc47a9d471a3a94c09b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb7747cab4e3e284aa2a930e1cce1937, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b7a87d39ebf1ba40b6aef29cc732a83, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 62d657d984fa2664d9bc82edc40e6bdf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7fd645f062473e4b88feb9995760770, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8cc9569e3ab0e3f4483b89e199893117, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c94b16a62fa02a44d971c90a7afc2071, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/HotFix/UI/View/FindView.prefab
+Dependencies:
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/common/uimask.ab
+- "F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/findview/%c0%f3%a4\u2550\xAA%cf%ce\u2264\xAA\xAA\xD1%a6+=%a6\u2588\xAA%d4@2x.ab"
+- "F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/findview/%c0%f3%a4\u2550\xAA%cf%ce\u2264\xAA\xAA\xD1%a6+=%a6\u2588\xAA%d42@2x.ab"
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/findview/%e3+-%a6%a6%ce+%bd-+%a6%db@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/findview/%f0-%a6%ce+%bd-+%a6%db@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/findview/%f0-%f0-%a6%fd+%bd@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/findview/-+%a6%d27@2x.ab
+- "F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/findview/-i%a6\u2567\xAA%ce+%bd-+%a6%db@2x.ab"
+- "F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/findview/-i%a6\u2567\xAA%fd+%bd-+%a6%db@2x.ab"
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/findview/defaulticon.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/findview/fffna.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/findview/find_rectangle
+  frasme@2x.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/findview/imagepicitem.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/es/view/findview/topimage.ab
+- F:/yunlangZhuZuoAndroid/trunk/resource/ui/Assets/../TempStreamingAssets/Android/ui/font/medium.ab
